@@ -1,0 +1,18 @@
+2015/03/30 14:46:02 [emerg] 11144#0: "server" directive is not allowed here in /usr/local/nginx/conf/conf.d/server3.conf:1
+2015/03/30 14:49:09 [emerg] 11222#0: unknown directive "error_logs" in /usr/local/nginx/conf/conf.d/server3.conf:6
+2015/03/30 14:49:59 [notice] 11259#0: signal process started
+2015/03/30 15:42:02 [emerg] 12437#0: invalid parameter "8081" in /usr/local/nginx/conf/conf.d/server3.conf:2
+2015/03/30 15:43:17 [notice] 12469#0: signal process started
+2015/03/30 16:04:21 [notice] 13039#0: signal process started
+2015/03/30 17:34:46 [emerg] 15162#0: "http" directive is not allowed here in /usr/local/nginx/conf/conf.d/starfleetproxy.conf:3
+2015/03/30 17:35:30 [emerg] 15186#0: unknown directive "prozy_cache" in /usr/local/nginx/conf/conf.d/starfleetproxy.conf:7
+2015/03/30 17:36:27 [emerg] 15223#0: "proxy_cache" zone "server-cache" is unknown in /usr/local/nginx/conf/nginx.conf:119
+2015/03/30 17:44:27 [emerg] 15494#0: "proxy_cache_path" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:115
+2015/03/30 17:45:33 [warn] 15532#0: conflicting server name "" on 0.0.0.0:8080, ignored
+2015/03/30 17:45:33 [notice] 15532#0: signal process started
+2015/03/30 17:59:09 [emerg] 15833#0: "proxy_pass" directive is not allowed here in /usr/local/nginx/conf/conf.d/starfleetproxy.conf:4
+2015/03/30 18:02:34 [emerg] 15905#0: unknown directive "proxy_valid_valid" in /usr/local/nginx/conf/conf.d/starfleetproxy.conf:13
+2015/03/30 18:03:07 [warn] 15927#0: conflicting server name "" on 0.0.0.0:8080, ignored
+2015/03/30 18:03:07 [notice] 15927#0: signal process started
+2015/03/30 18:03:36 [notice] 15945#0: signal process started
+2015/03/30 18:04:50 [error] 15946#0: *180 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 162.212.36.2, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "104.131.140.190"
